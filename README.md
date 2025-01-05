@@ -17,7 +17,7 @@ The following below highlights the skills and abilities that I possess within Mi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <
 
