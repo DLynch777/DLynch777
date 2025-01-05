@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="227" alt="image" src="https://github.com/user-attachments/assets/3ce4c239-b18f-476e-9f03-799f7a8f9b53" />
+
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-The following below lists steps on how to install and configure Active Directory. In addition, it showcases some of the different things you can do within Active Directory such as creating OU's and Domain Users, configuring policies with Group Policy, unlocking accounts/password resets and more.<br />
+<h1>Active Directory</h1>
+The following below highlights the skills and abilities that I possess within Microsoft Active Directory. It showcases skills in creating OU's and Domain Users, configuring policies with Group Policy, unlocking accounts/password resets and more.<br />
 
 
 <h2>Environments and Technologies Used</h2>
