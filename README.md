@@ -5,12 +5,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [DNS: Creating DNS records ("A-record" & "CNAME"](https://github.com/DLynch777/DNS-Creating-Records-A-record-CNAME-)
+  - [System Security: Event Viewer](https://github.com/DLynch777/Event-Viewer)
+  - [Network File Shares & Permissions](https://github.com/DLynch777/Network-File-Shares-Permissions)
+  - [MS Active Directory: Installation, Configuration, Creating OU's, Domain Admin User's, and More...](https://github.com/DLynch777/Network-File-Shares-Permissions)
+  - [osTicketing: Creating a Ticketing System from Scratch, Configuring Settings, Working Tickets, and More...](https://github.com/DLynch777/Network-File-Shares-Permissions)
+  - [MS Azure: Creating Resource Groups, Storage Accounts, VM's and More...](https://github.com/DLynch777/Network-File-Shares-Permissions)
 
 <h2>🤳Connect with me:</h2>
 
