@@ -21,7 +21,10 @@ The following below highlights the skills and abilities that I possess within Mi
 
 <
 
-<h2>Installation Steps</h2>
+<h2>Installation</h2>
+
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/6254a478-bb7b-4f5d-be76-6ffae905c409" />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
