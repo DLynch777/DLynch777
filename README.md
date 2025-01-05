@@ -4,7 +4,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
   - [DNS: Creating DNS records ("A-record" & "CNAME"](https://github.com/DLynch777/DNS-Creating-Records-A-record-CNAME-) 
   - [System Security: Event Viewer](https://github.com/DLynch777/Event-Viewer)
   - [Network File Shares & Permissions](https://github.com/DLynch777/Network-File-Shares-Permissions)
