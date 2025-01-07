@@ -21,7 +21,6 @@
 [<img align="left" alt="Da'Mondre | LinkedIn" width="800px" src="https:https://www.linkedin.com/in/dlynch7/" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/Josh
 
 [linkedin]: https://www.linkedin.com/in/dlynch7/
 
