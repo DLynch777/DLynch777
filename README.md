@@ -9,7 +9,7 @@
   - [Network File Shares & Permissions](https://github.com/DLynch777/Network-File-Shares-Permissions)
   - [MS Active Directory: Installation, Configuration, Creating OU's, Domain Admin User's, and More...](https://github.com/DLynch777/Active-Directory) 
 
-  - [MS Azure: Creating Resource Groups, Storage Accounts, VM's and More...](https://github.com/DLynch777/MS-AZURE/blob/main/README.md) <img width="65" alt="image" src="https://github.com/user-attachments/assets/f3047e27-99cb-4f34-ad6e-8feb0e3dcb1c" />
+  - [MS Azure: Creating Resource Groups, Storage Accounts, VM's and More...](https://github.com/DLynch777/MS-AZURE/blob/main/README.md)
 
   - [osTicketing: Creating a Ticketing System from Scratch, Configuring Settings, Working Tickets, and More...](https://github.com/DLynch777/osTicketing/blob/main/README.md) <img width="65" alt="image" src="https://github.com/user-attachments/assets/3a60560e-177f-4f94-80d5-7759ceac2352" />
 
